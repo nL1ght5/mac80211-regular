@@ -1,0 +1,9 @@
+/etc/config/pbuf
+/etc/hotplug.d/net/99-disable_mesh_chksum_ath11k
+/etc/init.d/qca-nss-pbuf
+/etc/ipq_release
+/etc/modules.d/ath11k
+/lib/apk/packages/kmod-ath11k.list
+/lib/modules/6.12.43/ath11k.ko
+/lib/modules/6.12.43/qmi_helpers.ko
+/usr/bin/nss_diag
